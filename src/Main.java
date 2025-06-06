@@ -4,8 +4,8 @@ public class Main {
     public static void main(String[] args) {
         var boxer1 = 78.2;
         var boxer2 =  82.7;
-        System.out.println(boxer1+boxer2+ " кг");
-        System.out.println(boxer2-boxer1 + " кг");
+
+        System.out.println(boxer2%boxer1);
 
 
 
