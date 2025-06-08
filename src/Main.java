@@ -36,6 +36,11 @@ public class Main {
         // задача 7
 
         System.out.println(boxer2%boxer1);
+        // задача 8
+        var hours = 640;
+        System.out.println("Всего работников в компании — "+hours/8+" человек");
+        var people = hours/8 + 94;
+        System.out.println("Если в компании работает "+people + " человек, то всего " + people*8 + " часов работы может быть поделено между сотрудниками");
 
 
     }
