@@ -13,6 +13,10 @@ public class Main {
         System.out.println(dog+4);
         System.out.println(cat+5);
         System.out.println(paper+4);
+        // задача 3
+        System.out.println(dog+4-3.5);
+        System.out.println(cat+5-1.6);
+        System.out.println(paper+4-7639);
 
 
     }
