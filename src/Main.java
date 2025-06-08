@@ -17,6 +17,11 @@ public class Main {
         System.out.println(dog+4-3.5);
         System.out.println(cat+5-1.6);
         System.out.println(paper+4-7639);
+        // задача 4
+        var friend = 19;
+        System.out.println(friend);
+        System.out.println(friend+2);
+        System.out.println((friend+2)/7);
 
 
     }
